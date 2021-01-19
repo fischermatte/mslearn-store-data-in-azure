@@ -335,3 +335,6 @@ ASALocalRun/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+/store-app-data-with-azure-blob-storage/src/start/pub/
+/store-app-data-with-azure-blob-storage/src/start/site.zip
+/store-app-data-with-azure-blob-storage/src/start/.vscode/
